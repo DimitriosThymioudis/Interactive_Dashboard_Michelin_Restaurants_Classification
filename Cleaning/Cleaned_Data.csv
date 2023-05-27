@@ -1,0 +1,520 @@
+,name,year,latitude,longitude,city,region,cuisine,price,Michelin Stars
+0,Kilian Stuba,2019,47.34858,10.17114,Kleinwalsertal,Austria,Creative,5,1
+1,Pfefferschiff,2019,47.83787,13.07917,Hallwang,Austria,Classic cuisine,5,1
+2,Esszimmer,2019,47.80685,13.03409,Salzburg,Austria,Creative,5,1
+3,Carpe Diem,2019,47.80001,13.04006,Salzburg,Austria,Market cuisine,5,1
+4,Edvard,2019,48.216503,16.36852,Wien,Austria,Modern cuisine,4,1
+5,Das Loft,2019,48.21272,16.37931,Wien,Austria,Modern cuisine,5,1
+6,Pramerl & the Wolf,2019,48.20945,16.37174,Wien,Austria,Creative,5,1
+7,Walter Bauer,2019,48.20923,16.37672,Wien,Austria,Classic cuisine,5,1
+8,SHIKI,2019,48.204067,16.37098,Wien,Austria,Japanese,5,1
+9,Tian,2019,48.20513,16.37456,Wien,Austria,Vegetarian,5,1
+10,aend,2019,48.18957,16.34115,Wien,Austria,Modern cuisine,5,1
+11,Le Ciel by Toni Mörwald,2019,48.20209,16.37156,Wien,Austria,Classic cuisine,5,1
+12,Chez TJ,2019,37.39468,-122.08044,South San Francisco,California,Contemporary,4,1
+13,Protégé,2019,37.427853,-122.14362,South San Francisco,California,Contemporary,3,1
+14,Madera,2019,37.42014,-122.21151,San Francisco,California,Contemporary,3,1
+15,The Village Pub,2019,37.42897,-122.25178,San Francisco,California,Contemporary,3,1
+16,Plumed Horse,2019,37.25648,-122.03537,South San Francisco,California,Contemporary,4,1
+17,Wakuriya,2019,37.52114,-122.3366,San Francisco,California,Japanese,4,1
+18,Sushi Yoshizumi,2019,37.565075,-122.3211,San Francisco,California,Japanese,4,1
+19,Rasa,2019,37.577522,-122.345985,San Francisco,California,Indian,2,1
+20,Maum,2019,37.72669,-122.414215,South San Francisco,California,Korean,4,1
+21,Al's Place,2019,37.748924,-122.42013,San Francisco,California,Californian,2,1
+22,Aster,2019,37.755054,-122.423134,San Francisco,California,Californian,3,1
+23,Omakase,2019,37.77077,-122.40298,San Francisco,California,Japanese,4,1
+24,Commonwealth,2019,37.761395,-122.41946,San Francisco,California,Contemporary,2,1
+25,Luce,2019,37.78194,-122.40498,San Francisco,California,Contemporary,3,1
+26,Birdsong,2019,37.779495,-122.41048,San Francisco,California,American,4,1
+27,In Situ,2019,37.785633,-122.40113,San Francisco,California,International,4,1
+28,Mourad,2019,37.78695,-122.39987,San Francisco,California,Moroccan,3,1
+29,Hashiri,2019,37.783062,-122.40754,San Francisco,California,Japanese,4,1
+30,Angler,2019,37.793167,-122.39213,San Francisco,California,Contemporary,4,1
+31,Rich Table,2019,37.774914,-122.42271,San Francisco,California,Contemporary,3,1
+32,Kin Khao,2019,37.785267,-122.40951,San Francisco,California,Thai,2,1
+33,Michael Mina,2019,37.79349,-122.399574,San Francisco,California,Contemporary,4,1
+34,Sons & Daughters,2019,37.79037,-122.40917,San Francisco,California,Contemporary,4,1
+35,Mister Jiu's,2019,37.79371,-122.406654,San Francisco,California,Chinese,3,1
+36,Nico,2019,37.795803,-122.40333,San Francisco,California,Contemporary,3,1
+37,jū-ni,2019,37.77672,-122.43886,San Francisco,California,Japanese,4,1
+38,Keiko à Nob Hill,2019,37.793106,-122.41445,San Francisco,California,Fusion,4,1
+39,The Progress,2019,37.78371,-122.43282,San Francisco,California,Californian,3,1
+40,State Bird Provisions,2019,37.783737,-122.43283,San Francisco,California,American,2,1
+41,Octavia,2019,37.787857,-122.42709,San Francisco,California,Californian,3,1
+42,SPQR,2019,37.78732,-122.43375,San Francisco,California,Italian,3,1
+43,Lord Stanley,2019,37.79592,-122.42208,San Francisco,California,Californian,3,1
+44,Kinjo,2019,37.79699,-122.422005,San Francisco,California,Japanese,4,1
+45,Sorrel,2019,37.788334,-122.44614,San Francisco,California,Californian,3,1
+46,Gary Danko,2019,37.80599,-122.42066,San Francisco,California,Contemporary,4,1
+47,Bar Crenn,2019,37.798435,-122.43581,San Francisco,California,French,3,1
+48,Spruce,2019,37.78772,-122.45264,San Francisco,California,Californian,3,1
+49,Wako,2019,37.783035,-122.461525,San Francisco,California,Japanese,4,1
+50,Madcap,2019,37.974712,-122.56168,San Francisco,California,Contemporary,4,1
+51,Aubergine,2019,36.55406,-121.924355,Monterey,California,Contemporary,4,1
+52,Kenzo,2019,38.29924,-122.28928,San Francisco,California,Japanese,4,1
+53,La Toque,2019,38.30351,-122.28349,San Francisco,California,Contemporary,4,1
+54,Bouchon,2019,38.40258,-122.3619,San Francisco,California,French,3,1
+55,Auberge du Soleil,2019,38.49199,-122.40534,San Francisco,California,Californian,4,1
+56,Farmhouse Inn & Restaurant,2019,38.49039,-122.8835,San Francisco,California,Californian,4,1
+57,The Kitchen,2019,38.58894,-121.41424,Sacramento,California,Contemporary,4,1
+58,Madrona Manor,2019,38.60428,-122.88647,San Francisco,California,Contemporary,4,1
+59,Harbor House,2019,39.135876,-123.719444,San Francisco,California,Californian,4,1
+60,Shin Sushi,2019,34.15784,-118.49415,Los Angeles,California,Japanese,3,1
+61,Rustic Canyon,2019,34.024952,-118.49118,Los Angeles,California,Californian,3,1
+62,Dialogue,2019,34.01679,-118.49748,Los Angeles,California,Contemporary,4,1
+63,Kato,2019,34.041683,-118.460915,Los Angeles,California,Asian,3,1
+64,CUT,2019,34.067036,-118.401024,Los Angeles,California,Steakhouse,4,1
+65,Nozawa Bar,2019,34.0683,-118.39849,Los Angeles,California,Japanese,4,1
+66,Shunji,2019,34.028496,-118.45195,Los Angeles,California,Japanese,4,1
+67,Maude,2019,34.064346,-118.39904,Los Angeles,California,Contemporary,4,1
+68,Mori Sushi,2019,34.033398,-118.44229,Los Angeles,California,Japanese,4,1
+69,Trois Mec,2019,34.084255,-118.33851,Los Angeles,California,Contemporary,4,1
+70,Osteria Mozza,2019,34.08342,-118.338974,Los Angeles,California,Italian,3,1
+71,Kali,2019,34.083443,-118.32455,Los Angeles,California,Californian,3,1
+72,Le Comptoir,2019,34.06354,-118.30057,Los Angeles,California,Californian,4,1
+73,Q Sushi,2019,34.046883,-118.255844,Los Angeles,California,Japanese,4,1
+74,Shibumi,2019,34.044155,-118.256134,Los Angeles,California,Japanese,4,1
+75,Hayato,2019,34.03311,-118.24265,Los Angeles,California,Japanese,4,1
+76,Bistro Na's,2019,34.104412,-118.07159,Los Angeles,California,Chinese,2,1
+77,Orsa & Winston,2019,33.92145,-118.275406,Los Angeles,California,Fusion,4,1
+78,Taco María,2019,33.69475,-117.924965,Costa Mesa,California,Mexican,3,1
+79,Hana re,2019,33.67759,-117.886566,Costa Mesa,California,Japanese,4,1
+80,Addison,2019,32.939903,-117.20013,San Diego,California,Contemporary,4,1
+81,Parachute,2019,41.94483,-87.70638,Chicago,Chicago,Fusion,2,1
+82,Goosefoot,2019,41.96856,-87.69596,Chicago,Chicago,Contemporary,4,1
+83,Elizabeth,2019,41.969555,-87.688736,Chicago,Chicago,Contemporary,4,1
+84,EL Ideas,2019,41.863,-87.68686,Chicago,Chicago,Contemporary,4,1
+85,Band of Bohemia,2019,41.967308,-87.67477,Chicago,Chicago,Gastropub,3,1
+86,Schwa,2019,41.90888,-87.66792,Chicago,Chicago,Contemporary,4,1
+87,Temporis,2019,41.898907,-87.66725,Chicago,Chicago,Contemporary,4,1
+88,Entente,2019,41.93721,-87.6652,Chicago,Chicago,Contemporary,3,1
+89,Elske,2019,41.884426,-87.66071,Chicago,Chicago,Contemporary,4,1
+90,Dusek's (Board & Beer),2019,41.857853,-87.65757,Chicago,Chicago,Gastropub,2,1
+91,Roister,2019,41.886658,-87.65187,Chicago,Chicago,Contemporary,3,1
+92,Boka,2019,41.91363,-87.64806,Chicago,Chicago,Contemporary,3,1
+93,Blackbird,2019,41.88423,-87.64356,Chicago,Chicago,Contemporary,3,1
+94,Sepia,2019,41.88394,-87.64247,Chicago,Chicago,American,3,1
+95,North Pond,2019,41.9296,-87.63762,Chicago,Chicago,Contemporary,3,1
+96,Everest,2019,41.87597,-87.63212,Chicago,Chicago,French,4,1
+97,Topolobampo,2019,41.89047,-87.63085,Chicago,Chicago,Mexican,4,1
+98,Spiaggia,2019,41.90062,-87.62457,Chicago,Chicago,Italian,4,1
+99,Monte,2019,45.08279,13.631168,Rovinj,Croatia,Creative,5,1
+100,Draga di Lovrana,2019,45.275867,14.251401,Lovran,Croatia,Modern cuisine,5,1
+101,Noel,2019,45.811054,15.988205,Zagreb,Croatia,Modern cuisine,5,1
+102,Pelegrini,2019,43.73603,15.888903,Šibenik,Croatia,Modern cuisine,5,1
+103,360º,2019,42.641563,18.111523,Dubrovnik,Croatia,Modern cuisine,5,1
+104,Field,2019,50.0919,14.42193,Praha,Czech Republic,Modern cuisine,5,1
+105,La Degustation Bohême Bourgeoise,2019,50.09115,14.42511,Praha,Czech Republic,Modern cuisine,5,1
+106,Gastromé,2019,56.15788,10.20937,Aarhus,Denmark,Modern cuisine,3,1
+107,Domestic,2019,56.15893,10.212132,Aarhus,Denmark,Modern cuisine,3,1
+108,Substans,2019,56.15415,10.20372,Aarhus,Denmark,Modern cuisine,3,1
+109,Frederikshøj,2019,56.12497,10.208638,Aarhus,Denmark,Creative,4,1
+110,Me‚Mu,2019,55.70901,9.53302,Vejle,Denmark,Modern cuisine,3,1
+111,Ti Trin Ned,2019,55.56659,9.752689,Fredericia,Denmark,Modern cuisine,3,1
+112,Slotskøkkenet,2019,55.771236,11.390805,Hørve,Denmark,Creative,4,1
+113,Søllerød Kro,2019,55.81325,12.49548,København,Denmark,Modern cuisine,2,1
+114,Jordnær,2019,55.748226,12.541014,København,Denmark,Danish,3,1
+115,Relæ,2019,55.693233,12.543222,København,Denmark,Modern cuisine,2,1
+116,Kiin Kiin,2019,55.69188,12.55754,København,Denmark,Thai,2,1
+117,formel B,2019,55.67031,12.53798,København,Denmark,Modern cuisine,2,1
+118,Kokkeriet,2019,55.68768,12.58492,København,Denmark,Modern cuisine,3,1
+119,Clou,2019,55.68342,12.58497,København,Denmark,Modern cuisine,4,1
+120,Marchal,2019,55.68034,12.58508,København,Denmark,Modern cuisine,2,1
+121,Kong Hans Kælder,2019,55.6787,12.584003,København,Denmark,Classic French,4,1
+122,Stud!o at The Standard,2019,55.67799,12.59191,København,Denmark,Creative,3,1
+123,108,2019,55.67785,12.5980835,København,Denmark,Modern cuisine,3,1
+124,Era Ora,2019,55.673004,12.591292,København,Denmark,Italian,2,1
+125,Alouette,2019,55.66265,12.57634,København,Denmark,Modern cuisine,3,1
+126,Frederiksminde,2019,55.12417,12.04623,Præstø,Denmark,Creative,3,1
+127,Kadeau Bornholm,2019,55.00457,14.969216,Pedersker,Denmark,Creative,4,1
+128,Ask,2019,60.17236,24.95648,Helsingfors / Helsinki,Finland,Modern cuisine,3,1
+129,Grön,2019,60.16446,24.93308,Helsingfors / Helsinki,Finland,Finnish,3,1
+130,Demo,2019,60.164806,24.941635,Helsingfors / Helsinki,Finland,Modern cuisine,3,1
+131,Olo,2019,60.16616,24.947704,Helsingfors / Helsinki,Finland,Modern cuisine,3,1
+132,Palace,2019,60.16556,24.95256,Helsingfors / Helsinki,Finland,Modern cuisine,3,1
+133,Ora,2019,60.157578,24.942947,Helsingfors / Helsinki,Finland,Modern cuisine,3,1
+134,Botrini's,2019,38.02318,23.79377,Athína,Greece,Mediterranean,5,1
+135,Varoulko Seaside,2019,37.937378,23.658577,Athína,Greece,Seafood,5,1
+136,Hytra,2019,37.95818,23.71895,Athína,Greece,Modern cuisine,5,1
+137,Loaf On,2019,22.379858,114.27188,Hong Kong,Hong Kong,Cantonese,2,1
+138,Lei Garden (Kwun Tong),2019,22.312672,114.22482,Hong Kong,Hong Kong,Cantonese,1,1
+139,Tim Ho Wan (Sham Shui Po),2019,22.32805,114.16665,Hong Kong,Hong Kong,Dim Sum,1,1
+140,Lei Garden (Mong Kok),2019,22.320219,114.17133,Hong Kong,Hong Kong,Cantonese,1,1
+141,Ming Court,2019,22.318314,114.16933,Hong Kong,Hong Kong,Cantonese,3,1
+142,Yat Tung Heen (Jordan),2019,22.308014,114.17147,Hong Kong,Hong Kong,Cantonese,2,1
+143,Fu Ho (Tsim Sha Tsui),2019,22.3022,114.17194,Hong Kong,Hong Kong,Cantonese,2,1
+144,Shang Palace,2019,22.297325,114.177155,Hong Kong,Hong Kong,Cantonese,3,1
+145,IM Teppanyaki & Wine,2019,22.280807,114.19211,Hong Kong,Hong Kong,Teppanyaki,2,1
+146,Ah Yat Harbour View (Tsim Sha Tsui),2019,22.296984,114.17197,Hong Kong,Hong Kong,Cantonese,2,1
+147,Rech,2019,22.293434,114.174034,Hong Kong,Hong Kong,Seafood,4,1
+148,Spring Moon,2019,22.294943,114.17182,Hong Kong,Hong Kong,Cantonese,3,1
+149,Imperial Treasure Fine Chinese Cuisine,2019,22.296177,114.170006,Hong Kong,Hong Kong,Cantonese,2,1
+150,Sushi Tokami,2019,22.296112,114.16916,Hong Kong,Hong Kong,Sushi,5,1
+151,Tosca,2019,22.30357,114.16007,Hong Kong,Hong Kong,Italian,3,1
+152,Épure,2019,22.29583,114.169304,,Hong Kong,French,3,1
+153,Yee Tung Heen,2019,22.282295,114.184135,Hong Kong,Hong Kong,Cantonese,2,1
+154,Yè Shanghai (Tsim Sha Tsui),2019,22.295143,114.168236,Hong Kong,Hong Kong,Shanghainese,1,1
+155,Ho Hung Kee,2019,22.280058,114.18364,Hong Kong,Hong Kong,Noodles and congee,1,1
+156,Jardin de Jade (Wan Chai),2019,22.28025,114.17716,Hong Kong,Hong Kong,Shanghainese,2,1
+157,Zhejiang Heen,2019,22.2787,114.17763,Hong Kong,Hong Kong,Shanghainese,2,1
+158,Takumi by Daisuke Mori,2019,22.276512,114.17718,Hong Kong,Hong Kong,Innovative,5,1
+159,Kam's Roast Goose,2019,22.277693,114.175385,Hong Kong,Hong Kong,Cantonese Roast Meats,1,1
+160,Pang's Kitchen,2019,22.26921,114.18452,Hong Kong,Hong Kong,Cantonese,1,1
+161,Xin Rong Ji,2019,22.278013,114.17273,Hong Kong,Hong Kong,Taizhou,3,1
+162,Qi (Wan Chai),2019,22.276443,114.17126,Hong Kong,Hong Kong,Sichuan,1,1
+163,Man Wah,2019,22.282213,114.15951,Hong Kong,Hong Kong,Cantonese,4,1
+164,Summer Palace,2019,22.277136,114.1643,Hong Kong,Hong Kong,Cantonese,3,1
+165,Octavium,2019,22.282587,114.1572,Hong Kong,Hong Kong,Italian,3,1
+166,Arbor,2019,22.283146,114.15542,,Hong Kong,Innovative,3,1
+167,VEA,2019,22.284931,114.15313,Hong Kong,Hong Kong,Innovative,5,1
+168,Mandarin Grill + Bar,2019,22.281048,114.1574,Hong Kong,Hong Kong,European contemporary,4,1
+169,Yat Lok,2019,22.28226,114.155655,Hong Kong,Hong Kong,Cantonese Roast Meats,1,1
+170,Guo Fu Lou,2019,22.278313,114.16034,Hong Kong,Hong Kong,Cantonese,3,1
+171,Celebrity Cuisine,2019,22.284334,114.15312,Hong Kong,Hong Kong,Cantonese,2,1
+172,Sushi Wadatsumi,2019,22.281038,114.15646,Hong Kong,Hong Kong,Sushi,3,1
+173,Arcane,2019,22.280624,114.15682,Hong Kong,Hong Kong,European contemporary,3,1
+174,Duddell's,2019,22.28008,114.157364,Hong Kong,Hong Kong,Cantonese,3,1
+175,Beefbar,2019,22.27982,114.15752,Hong Kong,Hong Kong,Steakhouse,2,1
+176,New Punjab Club,2019,22.28005,114.15525,Hong Kong,Hong Kong,Indian,2,1
+177,Kaiseki Den by Saotome,2019,22.285713,114.147865,Hong Kong,Hong Kong,Japanese,5,1
+178,Belon,2019,22.281662,114.152405,Hong Kong,Hong Kong,French,3,1
+179,Tate,2019,22.280996,114.15276,Hong Kong,Hong Kong,Innovative,5,1
+180,The Ocean,2019,22.235146,114.198524,Hong Kong,Hong Kong,French,5,1
+181,Costes Downtown,2019,47.50113,19.048595,Budapest,Hungary,Modern cuisine,4,1
+182,Borkonyha Winekitchen,2019,47.49953,19.052391,Budapest,Hungary,Modern cuisine,4,1
+183,Stand,2019,47.500244,19.059624,Budapest,Hungary,Modern cuisine,3,1
+184,Babel,2019,47.492603,19.05256,Budapest,Hungary,Modern cuisine,5,1
+185,Costes,2019,47.48873,19.061779,Budapest,Hungary,Modern cuisine,5,1
+186,The Kitchen,2019,22.191442,113.543,Macau,Macau,Steakhouse,3,1
+187,Tim's Kitchen,2019,22.189898,113.5439,Macau,Macau,Cantonese,2,1
+188,Wing Lei,2019,22.188028,113.54578,Macau,Macau,Cantonese,2,1
+189,King,2019,22.190178,113.54028,Macau,Macau,Cantonese,1,1
+190,Ying,2019,22.161234,113.555405,Macau,Macau,Cantonese,2,1
+191,Shinji by Kanesaka,2019,22.149635,113.56397,Macau,Macau,Sushi,4,1
+192,The Golden Peacock,2019,22.148178,113.56335,Macau,Macau,Indian,1,1
+193,Zi Yat Heen,2019,22.145418,113.56152,Macau,Macau,Cantonese,2,1
+194,8 1/2 Otto e Mezzo - Bombana,2019,22.14918,113.55393,Macau,Macau,Italian,3,1
+195,Pearl Dragon,2019,22.140524,113.56256,Macau,Macau,Cantonese,3,1
+196,Lai Heen,2019,22.148754,113.551926,Macau,Macau,Cantonese,2,1
+197,FAGN,2019,63.43392,10.39628,Trondheim,Norway,Modern cuisine,4,1
+198,Credo,2019,63.43391,10.39631,Trondheim,Norway,Creative,4,1
+199,RE-NAA,2019,58.972088,5.732877,Stavanger,Norway,Creative,4,1
+200,Sabi Omakase,2019,58.969936,5.7433133,Stavanger,Norway,Sushi,4,1
+201,Galt,2019,59.91661,10.71369,Oslo,Norway,Modern cuisine,3,1
+202,Kontrast,2019,59.92355,10.75106,Oslo,Norway,Scandinavian,3,1
+203,Statholdergaarden,2019,59.90937,10.74305,Oslo,Norway,Classic cuisine,4,1
+204,Del Posto,2019,40.74327,-74.0077,New York,New York City,Italian,4,1
+205,Le Grill de Joël Robuchon,2019,40.742897,-74.0077,New York,New York City,French,4,1
+206,L'Appart,2019,40.711903,-74.01544,New York,New York City,French,4,1
+207,Okuda,2019,40.743793,-74.00633,New York,New York City,Japanese,4,1
+208,Wallsé,2019,40.73538,-74.00814,New York,New York City,Austrian,4,1
+209,Jeju Noodle Bar,2019,40.732952,-74.00744,New York,New York City,Korean,2,1
+210,Sushi Nakazawa,2019,40.731716,-74.00451,New York,New York City,Japanese,4,1
+211,Kosaka,2019,40.738316,-74.00137,New York,New York City,Japanese,4,1
+212,Bâtard,2019,40.719616,-74.00589,New York,New York City,Contemporary,4,1
+213,Hirohisa,2019,40.72452,-74.003006,New York,New York City,Japanese,3,1
+214,Blue Hill,2019,40.7321,-73.9996,New York,New York City,American,4,1
+215,ZZ's Clam Bar,2019,40.727646,-74.00046,New York,New York City,Seafood,4,1
+216,Babbo,2019,40.73233,-73.99916,New York,New York City,Italian,4,1
+217,Carbone,2019,40.727966,-74.00017,New York,New York City,Italian,4,1
+218,Le Coucou,2019,40.719162,-74.00001,New York,New York City,French,3,1
+219,Aldea,2019,40.73885,-73.99366,New York,New York City,Mediterranean,4,1
+220,Cote,2019,40.73778,-73.99375,New York,New York City,Korean,3,1
+221,Bouley at Home,2019,40.74114,-73.99242,New York,New York City,Contemporary,3,1
+222,Gotham Bar and Grill,2019,40.73417,-73.99379,New York,New York City,American,4,1
+223,Nix,2019,40.733166,-73.993515,New York,New York City,Vegetarian,3,1
+224,Junoon,2019,40.74325,-73.99077,New York,New York City,Indian,4,1
+225,NoMad,2019,40.74497,-73.98883,New York,New York City,Contemporary,4,1
+226,The Musket Room,2019,40.723915,-73.99375,New York,New York City,Contemporary,3,1
+227,Uncle Boons,2019,40.721203,-73.99441,New York,New York City,Thai,2,1
+228,Noda,2019,40.74497,-73.988075,New York,New York City,Japanese,4,1
+229,Gramercy Tavern,2019,40.73849,-73.98868,New York,New York City,Contemporary,4,1
+230,The Clocktower,2019,40.7414,-73.987595,New York,New York City,Contemporary,3,1
+231,Ai Fiori,2019,40.75013,-73.98357,New York,New York City,Italian,4,1
+232,Casa Mono,2019,40.73595,-73.98706,New York,New York City,Spanish,3,1
+233,Jewel Bako,2019,40.72713,-73.98928,New York,New York City,Japanese,3,1
+234,The River Café,2019,40.703613,-73.994774,New York,New York City,Contemporary,4,1
+235,Bar Uchū,2019,40.72191,-73.99003,New York,New York City,Japanese,4,1
+236,Café China,2019,40.749973,-73.98228,New York,New York City,Chinese,2,1
+237,Kanoyama,2019,40.73071,-73.98655,New York,New York City,Japanese,3,1
+238,Contra,2019,40.719917,-73.98922,New York,New York City,Contemporary,4,1
+239,Atomix,2019,40.744408,-73.98292,New York,New York City,Korean,4,1
+240,Kyo Ya,2019,40.7266,-73.98526,New York,New York City,Japanese,3,1
+241,Kajitsu,2019,40.72776,-73.98428,New York,New York City,Japanese,3,1
+242,Agern,2019,40.75234,-73.9775,New York,New York City,Scandinavian,4,1
+243,Caviar Russe,2019,40.760685,-73.97355,New York,New York City,Contemporary,4,1
+244,Tuome,2019,40.724194,-73.9828,New York,New York City,Fusion,2,1
+245,Tempura Matsui,2019,40.74839,-73.97474,New York,New York City,Japanese,4,1
+246,Sushi Yasuda,2019,40.75108,-73.97364,New York,New York City,Japanese,4,1
+247,Sushi Amane,2019,40.75133,-73.971725,New York,New York City,Japanese,4,1
+248,Café Boulud,2019,40.77439,-73.96414,New York,New York City,French,4,1
+249,Claro,2019,40.677395,-73.98615,New York,New York City,Mexican,2,1
+250,Satsuki,2019,40.801243,-73.95187,New York,New York City,Japanese,4,1
+251,Sushi Noz,2019,40.77384,-73.958275,New York,New York City,Japanese,4,1
+252,Sushi Inoue,2019,40.810448,-73.943726,New York,New York City,Japanese,4,1
+253,Meadowsweet,2019,40.710354,-73.96317,New York,New York City,Mediterranean,3,1
+254,Casa Enríque,2019,40.743492,-73.95425,New York,New York City,Mexican,2,1
+255,Peter Luger,2019,40.70986,-73.96263,New York,New York City,Steakhouse,4,1
+256,Oxomoco,2019,40.730057,-73.95538,New York,New York City,Mexican,3,1
+257,The Finch,2019,40.68704,-73.96297,New York,New York City,American,3,1
+258,Faro,2019,40.707584,-73.923035,New York,New York City,American,2,1
+259,Senses,2019,52.244583,21.005886,Warszawa,Poland,Modern cuisine,5,1
+260,atelier Amaro,2019,52.21708,21.03768,Warszawa,Poland,Modern cuisine,4,1
+274,Olympe,2019,-22.96109,-43.20658,Rio de Janeiro - 22470,Rio de Janeiro,French,5,1
+275,Lasai,2019,-22.95401,-43.19557,Rio de Janeiro - 22271,Rio de Janeiro,modern,5,1
+276,Oteque,2019,-22.95747,-43.194424,Rio de Janeiro - 22271,Rio de Janeiro,modern,5,1
+277,Mee,2019,-22.96764,-43.17925,Rio de Janeiro - 22021,Rio de Janeiro,Asian influences,5,1
+278,Cipriani,2019,-22.96755,-43.17901,Rio de Janeiro - 22021,Rio de Janeiro,Italian,5,1
+279,Jun Sakamoto,2019,-23.56318,-46.67737,São Paulo - 05413,Sao Paulo,Japanese,5,1
+280,Maní,2019,-23.56621,-46.67974,São Paulo - 05415,Sao Paulo,creative,5,1
+281,Evvai,2019,-23.567078,-46.679146,São Paulo - 05415,Sao Paulo,modern,5,1
+282,Picchi,2019,-23.565063,-46.666767,São Paulo - 01426,Sao Paulo,Italian,5,1
+283,Kosushi,2019,-23.58522,-46.6809,São Paulo - 04538,Sao Paulo,Japanese,3,1
+284,Ryo Gastronomia,2019,-23.58132,-46.6767,São Paulo - 04531,Sao Paulo,Japanese,5,1
+285,Tangará Jean-Georges,2019,-23.634005,-46.72428,São Paulo - 05706,Sao Paulo,modern,5,1
+286,Kinoshita,2019,-23.59159,-46.67146,São Paulo - 04509,Sao Paulo,Japanese,5,1
+287,Kan Suke,2019,-23.5684,-46.64936,São Paulo - 01401,Sao Paulo,Japanese,5,1
+288,Huto,2019,-23.60882,-46.6598,São Paulo - 04080,Sao Paulo,Japanese,5,1
+289,Stay,2019,37.513004,127.10257,Seoul,South Korea,French contemporary,3,1
+290,Lee Jong Kuk 104,2019,37.592903,126.997284,Seoul,South Korea,Korean,4,1
+291,Hansikgonggan,2019,37.577705,126.98852,Seoul,South Korea,Korean,3,1
+292,Dining in Space,2019,37.57761,126.98845,Seoul,South Korea,French contemporary,3,1
+293,Exquisine,2019,37.521046,127.049736,Seoul,South Korea,Innovative,3,1
+294,Dosa,2019,37.52445,127.04441,Seoul,South Korea,Innovative,3,1
+295,Joo Ok,2019,37.52252,127.04396,Seoul,South Korea,Korean contemporary,3,1
+296,Balwoo Gongyang,2019,37.57389,126.98318,Seoul,South Korea,Temple cuisine,2,1
+297,Muoki,2019,37.518963,127.04217,Seoul,South Korea,Innovative,3,1
+298,L'Amitié,2019,37.522675,127.032646,Seoul,South Korea,French,3,1
+299,Yu Yuan,2019,37.57045,126.97534,Seoul,South Korea,Chinese,3,1
+300,Bicena,2019,37.5384,127.00135,Seoul,South Korea,Korean,3,1
+301,Mosu,2019,37.536415,126.99934,Seoul,South Korea,Innovative,5,1
+302,Poom,2019,37.54903,126.98341,Seoul,South Korea,Korean,3,1
+303,Soigné,2019,37.49816,127.002,Seoul,South Korea,Innovative,3,1
+304,Table for Four,2019,37.49769,126.99442,Seoul,South Korea,European contemporary,3,1
+305,Zero Complex,2019,37.49417,126.9948,Seoul,South Korea,Innovative,3,1
+306,Jin Jin,2019,37.55777,126.91324,Seoul,South Korea,Chinese,1,1
+307,Gotgan,2019,37.52212,126.92022,Seoul,South Korea,Korean,4,1
+308,Hill Street Tai Hwa Pork Noodle,2018,1.3052,103.8624,Singapore,Singapore,Street Food,1,1
+309,Putien (Kitchener Road),2018,1.30969,103.8573,Singapore,Singapore,Fujian,1,1
+310,Chef Kang's,2018,1.304735,103.84955,Singapore,Singapore,Cantonese,3,1
+311,Garibaldi,2018,1.296564,103.855,Singapore,Singapore,Italian,1,1
+312,Summer Pavilion,2018,1.291284,103.8603,Singapore,Singapore,Cantonese,2,1
+313,Shinji (Bras Basah Road),2018,1.2959028,103.8539,Singapore,Singapore,Sushi,2,1
+314,The Song of India,2018,1.310767,103.8353,Singapore,Singapore,Indian,1,1
+315,Lei Garden,2018,1.295228,103.8521,Singapore,Singapore,Cantonese,1,1
+316,Whitegrass,2018,1.295452,103.8516,Singapore,Singapore,Australian,2,1
+317,Jaan,2018,1.293184,103.8529,Singapore,Singapore,French contemporary,3,1
+318,Labyrinth,2018,1.2899688,103.8562,Singapore,Singapore,Innovative,2,1
+319,Cut,2018,1.2853268,103.8607,Singapore,Singapore,Steakhouse,3,1
+320,Alma,2018,1.309123,103.834,Singapore,Singapore,European contemporary,1,1
+321,Béni,2018,1.302379,103.8366,Singapore,Singapore,French contemporary,2,1
+322,Crystal Jade Golden Palace,2018,1.303244,103.8353,Singapore,Singapore,Chinese,1,1
+323,Imperial Treasure Fine Teochew Cuisine (Orchard),2018,1.3032448,103.8349,Singapore,Singapore,Chinese,1,1
+324,Saint Pierre,2018,1.285781,103.8538,Singapore,Singapore,French contemporary,2,1
+325,Sushi Ichi,2018,1.305105,103.8324,Singapore,Singapore,Sushi,3,1
+326,Sushi Kimura,2018,1.3063719,103.829475,Singapore,Singapore,Sushi,4,1
+327,Iggy's,2018,1.305986,103.8294,Singapore,Singapore,European contemporary,3,1
+328,Braci,2018,1.287212,103.84949,Singapore,Singapore,Italian contemporary,2,1
+329,Jiang-Nan Chun,2018,1.304937,103.8288,Singapore,Singapore,Cantonese,3,1
+330,Bacchanalia,2018,1.2874758,103.8474,Singapore,Singapore,Innovative,2,1
+331,Shinji (Tanglin Road),2018,1.305821,103.8257,Singapore,Singapore,Sushi,4,1
+332,Corner House,2018,1.315121,103.8154,Singapore,Singapore,Innovative,2,1
+333,Summer Palace,2018,1.3043848,103.825,Singapore,Singapore,Cantonese,1,1
+334,Cheek by Jowl,2018,1.281301,103.84849,Singapore,Singapore,Australian,1,1
+335,Nouri,2018,1.28086,103.84713,Singapore,Singapore,Innovative,1,1
+336,Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle,2018,1.28248,103.8439,Singapore,Singapore,Street Food,1,1
+337,Burnt Ends,2018,1.280501,103.8418,Singapore,Singapore,Barbecue,2,1
+338,Rhubarb,2018,1.279368,103.843,Singapore,Singapore,French contemporary,1,1
+339,Meta,2018,1.279372,103.8415,Singapore,Singapore,Innovative,2,1
+340,Ma Cuisine,2018,1.27826,103.842,Singapore,Singapore,French,1,1
+341,Candlenut,2018,1.2797709,103.8402,Singapore,Singapore,Peranakan,1,1
+342,Bhoga,2019,57.70618,11.9624,Göteborg,Sweden,Creative,3,1
+343,Koka,2019,57.698406,11.965365,Göteborg,Sweden,Modern cuisine,3,1
+344,28+,2019,57.69809,11.97377,Göteborg,Sweden,Modern cuisine,3,1
+345,SK Mat & Människor,2019,57.69688,11.98338,Göteborg,Sweden,Modern cuisine,3,1
+346,Thörnströms Kök,2019,57.69437,11.977609,Göteborg,Sweden,Classic cuisine,3,1
+347,Upper House,2019,57.69745,11.99021,Göteborg,Sweden,Creative,4,1
+348,Agrikultur,2019,59.34777,18.05863,Stockholm,Sweden,Modern cuisine,4,1
+349,Sushi Sho,2019,59.341286,18.049892,Stockholm,Sweden,Japanese,3,1
+350,Volt,2019,59.33867,18.079683,Stockholm,Sweden,Creative,3,1
+351,Ekstedt,2019,59.33674,18.07521,Stockholm,Sweden,Meats and grills,3,1
+352,Operakällaren,2019,59.329876,18.071363,Stockholm,Sweden,Classic cuisine,4,1
+353,Mathias Dahlgren-Matbaren,2019,59.32935,18.07543,Stockholm,Sweden,Modern cuisine,2,1
+354,Aloë,2019,59.2842,17.985748,Stockholm,Sweden,Creative,4,1
+355,PM & Vänner,2019,56.87892,14.80387,Växjö,Sweden,Creative,3,1
+356,Bloom in the Park,2019,55.59064,12.99794,Malmö,Sweden,Creative,2,1
+357,SAV,2019,55.53376,13.00537,Malmö,Sweden,Creative,3,1
+358,Golden Formosa,2019,25.118216,121.53623,Taipei,Taipei,Taiwanese,2,1
+359,Danny's Steakhouse,2019,25.082657,121.552765,Taipei,Taipei,Steakhouse,2,1
+360,L'Atelier de Joël Robuchon,2019,25.039188,121.56771,Taipei,Taipei,French contemporary,3,1
+361,Kitcho,2019,25.04429,121.55076,Taipei,Taipei,Sushi,4,1
+362,Tien Hsiang Lo,2019,25.062696,121.529976,Taipei,Taipei,Hang Zhou,2,1
+363,Ya Ge,2019,25.06625,121.52533,Taipei,Taipei,Cantonese,2,1
+364,Da-Wan,2019,25.043018,121.55019,Taipei,Taipei,Barbecue,3,1
+365,Sushi Nomura,2019,25.03618,121.55465,Taipei,Taipei,Sushi,3,1
+366,logy,2019,25.03561,121.55323,Taipei,Taipei,Asian contemporary,4,1
+367,Ming Fu,2019,25.06171,121.52399,Taipei,Taipei,Taiwanese,3,1
+368,Ken An Ho,2019,25.034622,121.55281,Taipei,Taipei,Japanese,4,1
+369,Sushi Ryu,2019,25.055832,121.52724,Taipei,Taipei,Sushi,4,1
+370,MUME,2019,25.036266,121.54809,Taipei,Taipei,European contemporary,3,1
+371,Impromptu by Paul Lee,2019,25.05429,121.524254,Taipei,Taipei,Innovative,3,1
+372,Longtail,2019,25.023922,121.54841,Taipei,Taipei,Innovative,2,1
+373,Mountain and Sea House,2019,25.038046,121.531395,Taipei,Taipei,Taiwanese,2,1
+374,Da San Yuan,2019,25.042248,121.512215,Taipei,Taipei,Cantonese,1,1
+375,Tainan Tan Tsu Mien Seafood,2019,25.03799,121.4984,Taipei,Taipei,Seafood,2,1
+376,Suan Thip,2019,13.926962,100.502144,Bangkok,Thailand,Thai,1,1
+377,Upstairs at Mikkeller,2019,13.727946,100.58844,Bangkok,Thailand,Innovative,5,1
+378,Chim by Siam Wisdom,2019,13.740706,100.56789,Bangkok,Thailand,Thai,3,1
+379,R-Haan,2019,13.731805,100.57972,Bangkok,Thailand,Thai,4,1
+380,Canvas,2019,13.728886,100.580826,Bangkok,Thailand,Innovative,4,1
+381,Bo.lan,2019,13.726389,100.57799,Bangkok,Thailand,Thai,5,1
+382,Sra Bua by Kiin Kiin,2019,13.754137,100.53451,Bangkok,Thailand,Thai Contemporary,3,1
+383,Elements,2019,13.742978,100.54798,Bangkok,Thailand,French contemporary,4,1
+384,Paste,2019,13.744594,100.540565,Bangkok,Thailand,Thai,3,1
+385,Ginza Sushi ichi,2019,13.744069,100.54092,Bangkok,Thailand,Sushi,4,1
+386,Sorn,2019,13.723242,100.56848,Bangkok,Thailand,Southern Thai,5,1
+387,Savelberg,2019,13.738216,100.54642,Bangkok,Thailand,French contemporary,3,1
+388,Saneh Jaan,2019,13.735739,100.54605,Bangkok,Thailand,Thai,2,1
+389,Gaa,2019,13.737806,100.54275,Bangkok,Thailand,Innovative,4,1
+390,Methavalai Sorndaeng,2019,13.756321,100.502045,Bangkok,Thailand,Thai,2,1
+391,Jay Fai,2019,13.752614,100.50466,Bangkok,Thailand,Street Food,2,1
+392,Nahm,2019,13.724357,100.53926,Bangkok,Thailand,Thai,3,1
+393,J'AIME by Jean-Michel Lorain,2019,13.718885,100.546326,Bangkok,Thailand,French contemporary,3,1
+394,Saawaan,2019,13.721809,100.53741,Bangkok,Thailand,Thai Contemporary,4,1
+395,Le Du,2019,13.725005,100.52939,Bangkok,Thailand,Thai,4,1
+396,Ruean Panya,2019,13.558403,100.28264,Bangkok,Thailand,Thai,2,1
+397,PRU,2019,8.034298,98.2764,Phuket,Thailand,Innovative,5,1
+398,Blue Duck Tavern,2019,38.905373,-77.05128,"Washington, D.C.",Washington DC,American,3,1
+399,Tail Up Goat,2019,38.9235,-77.043274,"Washington, D.C.",Washington DC,Contemporary,2,1
+400,Komi,2019,38.910107,-77.03836,"Washington, D.C.",Washington DC,Mediterranean,4,1
+401,Sushi Taro,2019,38.909992,-77.03834,"Washington, D.C.",Washington DC,Japanese,4,1
+402,Plume,2019,38.906,-77.03671,"Washington, D.C.",Washington DC,European,4,1
+403,Siren by RW,2019,38.907776,-77.035446,"Washington, D.C.",Washington DC,Seafood,3,1
+404,Bresca,2019,38.91584,-77.0321,"Washington, D.C.",Washington DC,Contemporary,2,1
+405,The Dabney,2019,38.906292,-77.024666,"Washington, D.C.",Washington DC,American,2,1
+406,Métier,2019,38.903503,-77.0218,"Washington, D.C.",Washington DC,Contemporary,4,1
+407,Kinship,2019,38.903282,-77.0218,"Washington, D.C.",Washington DC,Contemporary,3,1
+408,Fiola,2019,38.89416,-77.02032,"Washington, D.C.",Washington DC,Italian,4,1
+409,Masseria,2019,38.909504,-76.99908,"Washington, D.C.",Washington DC,Italian,3,1
+410,Rose's Luxury,2019,38.88064,-76.99515,"Washington, D.C.",Washington DC,Contemporary,2,1
+0,SENNS.Restaurant,2019,47.83636,13.06389,Salzburg,Austria,Creative,5,2
+1,Ikarus,2019,47.79536,13.00695,Salzburg,Austria,Creative,5,2
+2,Mraz & Sohn,2019,48.23129,16.37637,Wien,Austria,Creative,5,2
+3,Konstantin Filippou,2019,48.21056,16.37996,Wien,Austria,Modern cuisine,5,2
+4,Silvio Nickol Gourmet Restaurant,2019,48.20558,16.37693,Wien,Austria,Modern cuisine,5,2
+5,Steirereck im Stadtpark,2019,48.20229,16.3805,Wien,Austria,Creative,5,2
+6,Baumé,2019,37.4285,-122.14272,South San Francisco,California,Contemporary,4,2
+7,Commis,2019,37.82476,-122.25505,San Francisco,California,Contemporary,4,2
+8,Californios,2019,37.75555,-122.417145,San Francisco,California,Mexican,4,2
+9,Lazy Bear,2019,37.760204,-122.41969,San Francisco,California,Contemporary,4,2
+10,Saison,2019,37.76327,-122.41543,San Francisco,California,Californian,4,2
+11,Campton Place,2019,37.78923,-122.40665,San Francisco,California,Indian,4,2
+12,Coi,2019,37.79812,-122.40331,San Francisco,California,Contemporary,4,2
+13,Acquerello,2019,37.79167,-122.42131,San Francisco,California,Italian,4,2
+14,Urasawa,2019,34.067352,-118.40067,Los Angeles,California,Japanese,4,2
+15,Sushi Ginza Onodera,2019,34.08238,-118.37654,Los Angeles,California,Japanese,4,2
+16,Somni,2019,34.070095,-118.37649,Los Angeles,California,Contemporary,4,2
+17,Providence,2019,34.083523,-118.33019,Los Angeles,California,Seafood,4,2
+18,n/naka,2019,34.02526,-118.41206,Los Angeles,California,Contemporary,4,2
+19,Vespertine,2019,34.024204,-118.38166,Los Angeles,California,Contemporary,4,2
+20,Smyth,2019,41.885,-87.660736,Chicago,Chicago,Contemporary,4,2
+21,Oriole,2019,41.886196,-87.64513,Chicago,Chicago,Contemporary,4,2
+22,Acadia,2019,41.85904,-87.62562,Chicago,Chicago,Contemporary,4,2
+23,KOKS,2019,62.13667,-7.022025,Leynar,Denmark,Creative,4,2
+24,Henne Kirkeby Kro,2019,55.72682,8.242021,Henne,Denmark,Classic cuisine,3,2
+25,a‚o‚c,2019,55.68305,12.58921,København,Denmark,Modern cuisine,4,2
+26,noma,2019,55.68332,12.61006,København,Denmark,Creative,4,2
+27,Kadeau Copenhagen,2019,55.67219,12.58848,København,Denmark,Modern cuisine,4,2
+28,Spondi,2019,37.96525,23.742971,Athína,Greece,French,5,2
+29,Sun Tung Lok,2019,22.30099,114.17221,Hong Kong,Hong Kong,Cantonese,2,2
+30,Yan Toh Heen,2019,22.293337,114.17395,Hong Kong,Hong Kong,Cantonese,3,2
+31,Tin Lung Heen,2019,22.30357,114.16007,Hong Kong,Hong Kong,Cantonese,3,2
+32,Tenku RyuGin,2019,22.30331,114.16021,Hong Kong,Hong Kong,Japanese,5,2
+33,Forum,2019,22.281616,114.1824,Hong Kong,Hong Kong,Cantonese,2,2
+34,Sushi Saito,2019,22.286467,114.15677,Hong Kong,Hong Kong,Sushi,5,2
+35,Pierre,2019,22.282127,114.15948,Hong Kong,Hong Kong,French contemporary,4,2
+36,Ying Jee Club,2019,22.284338,114.156654,Hong Kong,Hong Kong,Cantonese,2,2
+37,Écriture,2019,22.28315,114.1554,Hong Kong,Hong Kong,French contemporary,3,2
+38,Ta Vie,2019,22.282766,114.15529,Hong Kong,Hong Kong,Innovative,5,2
+39,Amber,2019,22.280596,114.15764,Hong Kong,Hong Kong,French contemporary,4,2
+40,Kashiwaya,2019,22.280643,114.15674,Hong Kong,Hong Kong,Japanese,4,2
+41,Onyx,2019,47.49712,19.05067,Budapest,Hungary,Modern cuisine,5,2
+42,Feng Wei Ju,2019,22.18996,113.54794,Macau,Macau,Hunanese and Sichuan,1,2
+43,Golden Flower,2019,22.18753,113.54806,Macau,Macau,Chinese,2,2
+44,Mizumi (Macau),2019,22.188755,113.54488,Macau,Macau,Japanese,2,2
+45,The Tasting Room,2019,22.14958,113.56505,Macau,Macau,French contemporary,3,2
+46,Alain Ducasse at Morpheus,2019,22.14293,113.563774,Macau,Macau,French contemporary,5,2
+47,L'Atelier de Joël Robuchon,2019,40.742905,-74.00769,New York,New York City,French,4,2
+48,Jungsik,2019,40.718685,-74.00911,New York,New York City,Korean,4,2
+49,Atera,2019,40.716797,-74.00565,New York,New York City,Contemporary,4,2
+50,Jean-Georges,2019,40.76907,-73.98155,New York,New York City,Contemporary,4,2
+51,Marea,2019,40.76749,-73.98114,New York,New York City,Seafood,4,2
+52,Gabriel Kreuther,2019,40.75397,-73.982025,New York,New York City,Contemporary,4,2
+53,Ichimura at Uchū,2019,40.721832,-73.99012,New York,New York City,Japanese,4,2
+54,Sushi Ginza Onodera,2019,40.752396,-73.981575,New York,New York City,Japanese,4,2
+55,Ko,2019,40.72909,-73.98448,New York,New York City,Contemporary,4,2
+56,The Modern,2019,40.76106,-73.97628,New York,New York City,Contemporary,4,2
+57,Aquavit,2019,40.76078,-73.97214,New York,New York City,Scandinavian,4,2
+58,Daniel,2019,40.7666,-73.96745,New York,New York City,French,4,2
+59,Aska,2019,40.71222,-73.96642,New York,New York City,Scandinavian,4,2
+60,Blanca,2019,40.70492,-73.93354,New York,New York City,Contemporary,4,2
+62,Oro,2019,-22.98601,-43.22471,Rio de Janeiro - 22441,Rio de Janeiro,creative,5,2
+63,Tuju,2019,-23.55653,-46.69083,São Paulo - 05416,Sao Paulo,creative,5,2
+64,D.O.M.,2019,-23.56618,-46.66742,São Paulo - 01411,Sao Paulo,creative,5,2
+65,Kojima,2019,37.52559,127.04193,Seoul,South Korea,Sushi,5,2
+66,Jungsik,2019,37.525585,127.04107,Seoul,South Korea,Korean contemporary,3,2
+67,Kwonsooksoo,2019,37.526752,127.03571,Seoul,South Korea,Korean,3,2
+68,Mingles,2019,37.52219,127.0392,Seoul,South Korea,Korean contemporary,3,2
+69,Alla Prima,2019,37.51844,127.03008,Seoul,South Korea,Innovative,3,2
+70,Waku Ghin,2018,1.283175,103.8598,Singapore,Singapore,Japanese contemporary,5,2
+71,Odette,2018,1.2896459,103.8516,Singapore,Singapore,French contemporary,4,2
+72,Shoukouwa,2018,1.2863698,103.854,Singapore,Singapore,Sushi,5,2
+73,Shisen Hanten,2018,1.302395,103.8365,Singapore,Singapore,Chinese,1,2
+74,Les Amis,2018,1.3066648,103.8314,Singapore,Singapore,French,3,2
+75,Fäviken Magasinet,2019,63.43626,13.29337,Järpen,Sweden,Creative,4,2
+76,Gastrologik,2019,59.33365,18.0807,Stockholm,Sweden,Creative,4,2
+77,Oaxen Krog,2019,59.322342,18.101831,Stockholm,Sweden,Creative,4,2
+78,Vollmers,2019,55.604427,12.995848,Malmö,Sweden,Creative,4,2
+79,Daniel Berlin,2019,55.61246,13.99265,Skåne-Tranås,Sweden,Creative,4,2
+80,RAW,2019,25.082666,121.559525,Taipei,Taipei,Innovative,3,2
+81,Shoun RyuGin,2019,25.08258,121.5595,Taipei,Taipei,Japanese contemporary,4,2
+82,Taïrroir,2019,25.082718,121.559296,Taipei,Taipei,Innovative,3,2
+83,Sushi Amamoto,2019,25.037945,121.55487,Taipei,Taipei,Sushi,4,2
+84,The Guest House,2019,25.04486,121.52198,Taipei,Taipei,Sichuan-Huai Yang,2,2
+85,Gaggan,2019,13.737679,100.542145,Bangkok,Thailand,Innovative,5,2
+86,Sühring,2019,13.710947,100.545654,Bangkok,Thailand,European contemporary,4,2
+87,Mezzaluna,2019,13.722148,100.51691,Bangkok,Thailand,Innovative,5,2
+88,Le Normandie,2019,13.723197,100.513855,Bangkok,Thailand,French contemporary,4,2
+89,minibar,2019,38.896294,-77.02386,"Washington, D.C.",Washington DC,Contemporary,4,2
+90,Pineapple and Pearls,2019,38.880707,-76.99514,"Washington, D.C.",Washington DC,Contemporary,4,2
+0,Amador,2019,48.25406,16.35915,Wien,Austria,Creative,5,3
+1,Manresa,2019,37.22761,-121.98071,South San Francisco,California,Contemporary,4,3
+2,Benu,2019,37.78521,-122.39876,San Francisco,California,Asian,4,3
+3,Quince,2019,37.79762,-122.40337,San Francisco,California,Contemporary,4,3
+4,Atelier Crenn,2019,37.79835,-122.43586,San Francisco,California,Contemporary,4,3
+5,The French Laundry,2019,38.40443,-122.36474,San Francisco,California,Contemporary,4,3
+6,The Restaurant at Meadowood,2019,38.52025,-122.46479,San Francisco,California,Contemporary,4,3
+7,SingleThread,2019,38.612164,-122.869705,San Francisco,California,Contemporary,4,3
+8,Alinea,2019,41.91328,-87.64798,Chicago,Chicago,Contemporary,4,3
+9,Geranium,2019,55.70393,12.57197,København,Denmark,Creative,4,3
+10,T'ang Court,2019,22.296572,114.1698,Hong Kong,Hong Kong,Cantonese,3,3
+11,Bo Innovation,2019,22.27614,114.171,Hong Kong,Hong Kong,Innovative,5,3
+12,Lung King Heen,2019,22.28665,114.15674,Hong Kong,Hong Kong,Cantonese,4,3
+13,Caprice,2019,22.286646,114.15662,Hong Kong,Hong Kong,French,4,3
+14,8½ Otto e Mezzo - Bombana,2019,22.28189,114.15839,Hong Kong,Hong Kong,Italian,4,3
+15,L'Atelier de Joël Robuchon,2019,22.281199,114.15816,Hong Kong,Hong Kong,French contemporary,4,3
+16,Sushi Shikon,2019,22.28511,114.15208,Hong Kong,Hong Kong,Sushi,5,3
+17,The Eight,2019,22.190475,113.54341,Macau,Macau,Chinese,3,3
+18,Robuchon au Dôme,2019,22.189949,113.54395,Macau,Macau,French contemporary,4,3
+19,Jade Dragon,2019,22.149137,113.56715,Macau,Macau,Cantonese,2,3
+20,Maaemo,2019,59.910477,10.760408,Oslo,Norway,Modern cuisine,4,3
+21,Masa,2019,40.76855,-73.98335,New York,New York City,Japanese,4,3
+22,Per Se,2019,40.76828,-73.98292,New York,New York City,Contemporary,4,3
+23,Le Bernardin,2019,40.76177,-73.98223,New York,New York City,Seafood,4,3
+24,Eleven Madison Park,2019,40.7417,-73.98712,New York,New York City,Contemporary,4,3
+25,Chef's Table at Brooklyn Fare,2019,40.68872,-73.98581,New York,New York City,Contemporary,4,3
+26,La Yeon,2019,37.555813,127.00517,Seoul,South Korea,Korean,4,3
+27,Gaon,2019,37.52265,127.03595,Seoul,South Korea,Korean,5,3
+28,Frantzén,2019,59.33418,18.05812,Stockholm,Sweden,Modern cuisine,4,3
+29,Le Palais,2019,25.049496,121.51674,Taipei,Taipei,Cantonese,2,3
+30,The Inn at Little Washington,2019,38.713623,-78.16208,"Washington, D.C.",Washington DC,American,4,3
